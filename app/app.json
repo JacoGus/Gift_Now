@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "GiftNow",
+    "slug": "GiftNow",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.gusjaco.GiftNow"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7b8bdcf1-92cf-45c2-aa02-46e75af4cb58"
+      }
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
