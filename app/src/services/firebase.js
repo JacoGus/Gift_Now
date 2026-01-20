@@ -3,7 +3,7 @@ import { getFirestore } from 'firebase/firestore';
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCDeonycE3xdxaTTdTw_8ISNF7Z9QRFwrY",
+  apiKey: "",
   authDomain: "giftnow-227f6.firebaseapp.com",
   projectId: "giftnow-227f6",
   storageBucket: "giftnow-227f6.firebasestorage.app",
