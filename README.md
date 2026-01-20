@@ -153,12 +153,6 @@ Todo o código fonte do projeto encontra-se organizado nas pastas deste reposit�
 
 ---
 
-## 15. Apresentação da solução
 
-https://github.com/user-attachments/assets/b7ea6f23-0101-455e-9548-3aa66112edcd
-
-https://github.com/user-attachments/assets/5fc1cced-54a4-4c6a-97f9-ea6be527dfc0
-
-Obrigado!
 
 
